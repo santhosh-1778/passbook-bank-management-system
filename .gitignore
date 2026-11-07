@@ -1,0 +1,6 @@
+out/
+out-test/
+lib/
+bank.db*
+sources.txt
+target/
